@@ -1,0 +1,14 @@
+{
+  "name": "hello_express",
+  "version": "1.0.0",
+  "description": "Sample express app",
+  "main": "Hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pavan Kadiyala",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "local_conditionaltemplate",
+  "version": "1.0.0",
+  "description": "This project deals with the concept of using locals and conditional templates to build an app using Node.js with Express.js.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pavan Kadiyala",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.2",
+    "express": "^4.14.0"
+  }
+}

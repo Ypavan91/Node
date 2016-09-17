@@ -1,0 +1,15 @@
+{
+  "name": "modularizing_routes",
+  "version": "1.0.0",
+  "description": "This project mainly show how to organize routes into small modules. ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pavan Kadiyala",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.2",
+    "express": "^4.14.0"
+  }
+}

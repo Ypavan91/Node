@@ -1,0 +1,15 @@
+{
+  "name": "routes_partials",
+  "version": "1.0.0",
+  "description": "Adding partials for ejs template and routing pages",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pavan Kadiyala",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.2",
+    "express": "^4.14.0"
+  }
+}
