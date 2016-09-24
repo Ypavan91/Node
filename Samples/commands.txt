@@ -1,0 +1,6 @@
+open .              ---> Open the current folder (Mac)
+open -a Terminal .  ---> This open the instance of the current terminal (Mac)
+ls                  ---> List of file (Mac)
+expolrer .          ---> Open the current folder (Windows)
+dir                 ---> List of file (Windows)
+cmd                 ---> This opens the new instance of the command promt in that folder (Windows)
