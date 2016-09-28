@@ -78,8 +78,7 @@ $RECYCLE.BIN/
 
 ### Node ###
 # Logs
-logs
-*.log
+
 npm-debug.log*
 
 # Runtime data
